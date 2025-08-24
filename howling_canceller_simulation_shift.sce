@@ -22,6 +22,7 @@ mprintf('*** simulation start ');
 clear;                      // clear all variables
 
 INPUT_WAVEFILE_NAME ='male_radio_noise_bpf.wav';
+//INPUT_WAVEFILE_NAME ='english_source.wav';
 OUTPUT_WAVEFILE_NAME='out.wav';
 
 FS       =8000;                // sampling frequency [Hz]
