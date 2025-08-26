@@ -43,7 +43,7 @@ simulation result
 
 ------------------------------------------------------------------------------
 
-overview of adaptive howling canceller (overview of adaptive acoustice feedback canceller)
+overview of adaptive howling canceller (overview of adaptive acoustic feedback canceller)
 
   one page(s) overview of our excellent research about adaptive howling canceller
 
@@ -61,6 +61,7 @@ reference
 ------------------------------------------------------------------------------
 
 (c) 2025 cepstrum.co.jp
+
 
 
 
