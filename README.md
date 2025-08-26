@@ -6,5 +6,5 @@ free, as is, no specific license
 
 please read read_me.txt
 
-
+(c) 2025 cepstrum.co.jp
 
