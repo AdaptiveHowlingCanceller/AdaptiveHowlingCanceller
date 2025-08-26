@@ -33,7 +33,7 @@ simulation result
 
   English
 
-    english_howling_canceller_off.wav                            holing canceller off (mu/MU=0)
+    english_howling_canceller_off.wav                            howling canceller off (mu/MU=0)
     english_result.wav                                           mu/MU=0.005 (delay decorrelator)
 
 ------------------------------------------------------------------------------
@@ -48,4 +48,5 @@ reference
 ------------------------------------------------------------------------------
 
 (c) 2025 cepstrum.co.jp
+
 
