@@ -6,9 +6,9 @@ Scilab download ---> https://www.scilab.org/
 
 ------------------------------------------------------------------------------
 
-simulation program and input wav file
+simulation program and input wav file etc
 
-  free, as is, no spesific license
+  source (free, as is, no spesific license)
 
     howling_canceller_simulation.sce           Scilab simulation program (delay decorrelator)
     howling_canceller_simulation_shift.sce     Scialb simulation program (frequency shift decorrelator)
@@ -20,6 +20,11 @@ simulation program and input wav file
     >exec('howling_canceller_simulation.sce', -1);
     >exec('howling_canceller_simulation_shift.sce', -1);
     >help exec;
+
+  block diagram
+ 
+    adaptive_howling_canceller_basic_block_diagram.png                  basic adaptive howling canceller block diagram
+    adaptive_howling_canceller_scilab_simulation_block_diagram.png      simulation program block diagram
 
 ------------------------------------------------------------------------------
 
@@ -48,5 +53,6 @@ reference
 ------------------------------------------------------------------------------
 
 (c) 2025 cepstrum.co.jp
+
 
 
