@@ -6,17 +6,35 @@ Scilab download ---> https://www.scilab.org/
 
 ------------------------------------------------------------------------------
 
-free, as is, no spesific license
+simulation program and input wav file
 
-  howling_canceller_simulation.sce           Scilab simulation program (delay decorrelator)
-  howling_canceller_simulation_shift.sce     Scialb simulation program (frequency shift decorrelator)
-  male_radio_noise_bpf.wav                   input wave file
+  free, as is, no spesific license
 
-use "exec" and "help" command in Scilab console (command line)
+    howling_canceller_simulation.sce           Scilab simulation program (delay decorrelator)
+    howling_canceller_simulation_shift.sce     Scialb simulation program (frequency shift decorrelator)
+    male_radio_noise_bpf.wav                   input wav file (Japanese)
+    english_source.wav                         input wav file (Engliseh)
 
-  >exec('howling_canceller_simulation.sce', -1);
-  >exec('howling_canceller_simulation_shift.sce', -1);
-  >help exec;
+  use "exec" and "help" command in Scilab console (command line)
+
+    >exec('howling_canceller_simulation.sce', -1);
+    >exec('howling_canceller_simulation_shift.sce', -1);
+    >help exec;
+
+------------------------------------------------------------------------------
+
+simulation result
+
+  Japanese
+
+    result_delay_decorrelator_mu0(howling_canceller_off).wav     howling canceller off (mu/MU=0)
+    result_delay_decorrelator_mu0.005.wav                        mu/MU=0.005 (delay decorrelator)
+    result_frequency_shift_decorrelator_mu0.003.wav              mu/MU=0.003 (frequency shift decorrelator)
+
+  English
+
+    english_howling_canceller_off.wav                            holing canceller off (mu/MU=0)
+    english_result.wav                                           mu/MU=0.005 (delay decorrelator)
 
 ------------------------------------------------------------------------------
 
@@ -30,3 +48,4 @@ reference
 ------------------------------------------------------------------------------
 
 (c) 2025 cepstrum.co.jp
+
