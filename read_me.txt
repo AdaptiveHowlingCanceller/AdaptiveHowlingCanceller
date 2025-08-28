@@ -13,7 +13,7 @@ simulation program and input wav file etc
     howling_canceller_simulation.sce           Scilab simulation program (delay decorrelator)
     howling_canceller_simulation_shift.sce     Scialb simulation program (frequency shift decorrelator)
     male_radio_noise_bpf.wav                   input wav file (Japanese)
-    english_source.wav                         input wav file (Engliseh)
+    english_source.wav                         input wav file (English)
 
   use "exec" and "help" command in Scilab console (command line)
 
@@ -61,6 +61,7 @@ reference
 ------------------------------------------------------------------------------
 
 (c) 2025 cepstrum.co.jp
+
 
 
 
